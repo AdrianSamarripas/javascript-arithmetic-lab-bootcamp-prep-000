@@ -1,5 +1,5 @@
 function add(a,b){
-  return a + b
+  return a + b;
 }
 
 function subtract(a,b){
@@ -24,11 +24,11 @@ function dec(a){
 
 
 function makeInt(n){
-  return parseInt(n)
+  return parseInt(n);
 
   
 }
 
 function preserveDecimal(n){
-  return parseFloat(n)
+  return parseFloat(n);
 }
